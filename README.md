@@ -5,6 +5,6 @@ Below, you'll find brief descriptions of each project, including key features, t
 #Projects Overview:
 
 1) Social Buzz Analysis
-   Description: A data analysis project that analyzes social data to provide insights and suggestions based on top categories.
-   Technologies: Excel
-   Repository: Social Buzz Analysis
+   *Description: A data analysis project that analyzes social data to provide insights and suggestions based on top categories.
+   *Technologies: Excel
+   *Repository: Social Buzz Analysis
